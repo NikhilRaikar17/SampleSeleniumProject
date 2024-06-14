@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: practice.TestFunctionalInterface
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.862 s -- in practice.TestFunctionalInterface
